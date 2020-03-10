@@ -1,4 +1,4 @@
-State,2018Population,2018Growth,PovertyRate,PropertyTax,IncomeTax,SalesTax,TotalTax
+State,Population,Growth,PovertyRate,PropertyTax,IncomeTax,SalesTax,TotalTax
 Alabama,4888949,0.0029,0.192,0.0141,0.0186,0.0397,0.2644
 Alaska,738068,-0.0023,0.114,0.0354,0,0.014,0.1634
 Arizona,7123898,0.0153,0.182,0.0262,0.0139,0.042,0.2641
